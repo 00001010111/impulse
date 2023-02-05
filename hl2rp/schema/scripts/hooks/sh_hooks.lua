@@ -1,0 +1,1 @@
+-- put shared hooks here, format the same as sv_hooks.lua
