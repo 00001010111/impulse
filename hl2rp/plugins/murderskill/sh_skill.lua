@@ -1,1 +1,0 @@
-impulse.Skills.Define("murder", "Murdering") --define the skill
