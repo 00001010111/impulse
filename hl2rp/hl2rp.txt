@@ -1,6 +1,0 @@
-"hl2rp"
-{
-	"base"		"impulse"
-	"title"		"impulse: Half-Life 2 RolePlay"
-	"author"	"Eliosse"
-}
