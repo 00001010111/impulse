@@ -1,8 +1,8 @@
  db:
-  ip: "sqlIP"
+  ip: "Your server IP"
   username: "root"
   password: "changeable"
-  database: "impulse_development"
+  database: "dbname"
   port: 3306
 
    apis:
