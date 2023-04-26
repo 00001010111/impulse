@@ -1,0 +1,10 @@
+ db:
+  ip: "Your server IP"
+  username: "root"
+  password: "changeable"
+  database: "dbname"
+  port: 3306
+
+   apis:
+  steam_key: ""
+  slack_webhook: "https://hooks.slack.com/services/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX"
