@@ -1,5 +1,5 @@
  db:
-  ip: "sqlIP"
+  ip: "Your server IP"
   username: "root"
   password: "changeable"
   database: "dbname"
