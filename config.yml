@@ -1,5 +1,5 @@
  db:
-  ip: "localhost"
+  ip: "sqlIP"
   username: "root"
   password: "changeable"
   database: "impulse_development"
